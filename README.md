@@ -27,7 +27,4 @@ Here are some ideas to get you started:
 
 ### Мои контакты:
 
-Telegram: @afreakanist
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afreakanist&show_icons=true)](https://github.com/afreakanist/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afreakanist&layout=compact)](https://github.com/afreakanist/github-readme-stats)
+Telegram: @SchneckeChan
